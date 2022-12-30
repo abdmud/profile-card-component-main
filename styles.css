@@ -31,10 +31,11 @@ body {
 .stats {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .stats-metric {
     display: flex;
     flex-direction: row;
+    justify-content: space-around;
 }
