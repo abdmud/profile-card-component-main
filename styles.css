@@ -30,6 +30,11 @@ body {
 
 .stats {
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.stats-metric {
+    display: flex;
+    flex-direction: row;
 }
